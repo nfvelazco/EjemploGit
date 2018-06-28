@@ -1,7 +1,16 @@
 locura
 
+iss1 nico- claro
+iss1 nico- claro1
+iss1 nico- claro2
+iss1 nico- claro3
+iss1 nico- claro4
+iss1 nico- claro5
 
 ISS1 --a
 ISS1 --b
 ISS1 --c
 ISS1 --d
+
+
+
